@@ -4,7 +4,7 @@
   <h3>Front-end Developer | Building Digital Products</h3>
 
   <p>
-    Create of <b>GrowpStudios</b> | Co-Creator of <b>ZulCode</b>
+    Creator of <b>GrowpStudios</b> | Co-Creator of <b>ZulCode</b>
   </p>
 
   <p>
