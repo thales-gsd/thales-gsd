@@ -9,7 +9,7 @@
 
   <p>
     <a href="mailto:thalesdipa123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-thalesdipa123%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-contact.thales.dipapidis%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
